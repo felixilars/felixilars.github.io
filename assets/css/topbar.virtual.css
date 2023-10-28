@@ -230,6 +230,12 @@
 
 .page-service {
   background-color: #fff;
+  /*
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  */
 }
 
 .card-service {
@@ -437,6 +443,10 @@
 
 .page-contact {
   background-color: #fff;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .vg-maps {
