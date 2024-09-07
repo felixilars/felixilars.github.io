@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: INRIA - Institut National de Recherche en Sciences et Technologies du Numérique
+    url: "https://www.inria.fr/en"
+    location: Rennes, France
+    logo: /images/sections/experiences/inria.png
+    # Can optionally show a different logo for dark theme
+    darkLogo: /images/sections/experiences/inria_dark.png
+    # company overview
+    overview: INRIA est un institut national de recherche français spécialisé en informatique, théorie du contrôle et mathématiques appliquées, reconnu pour ses innovations de pointe dans les logiciels, les algorithmes et l'intelligence artificielle.
+  positions:
+  - designation: Stagiaire
+    start: Juin 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Août 2024
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Recherche sur les LLM (Large Language Models) dans les compétitions de codage
+    - Conception et développement d'un programme pour évaluer les LLM à travers des cas de test
+
+#- company:
+#    name: PreExample Co.
+#    url: "https://www.example.com"
+#    location: Nowhere
+#    logo: /images/sections/experiences/company2.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+#    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+#  positions:
+#  - designation: Software Engineer
+#    start: March 2016
+#    end: May 2017
+#    responsibilities:
+#    - Write lots of example codes.
+#    - Read lots of examples.
+#    - See lots of example videos.

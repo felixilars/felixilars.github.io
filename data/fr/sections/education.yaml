@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Éducation
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Étudient en Science et Technologies Pour l'Ingénieur (STPI) - programme FIRE
+  icon: fa-graduation-cap
+  timeframe: 2023-Présent
+  institution:
+    name: INSA de Rennes
+    url: "https://www.insa-rennes.fr/"
+    logo: /images/sections/education/insa.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  #grade: #(optional)
+  #  scale: CGPA
+  #  achieved: 3.5
+  #  outOf: 4
+  #takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #  showGrades: true
+  #  collapseAfter: 3
+  #  courses:
+  #  - name: Data Structures and Algorithm
+  #    achieved: 3.75
+  #    outOf: 4
+  #  - name: Network Security
+  #    achieved: 3.80
+  #    outOf: 4
+  #  - name: Operating System
+  #    achieved: 3.5
+  #    outOf: 4
+  #  - name: Artificial Intelligent
+  #    achieved: 3.75
+  #    outOf: 4
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+  #custonSections: #(optional)
+  #  - name: Thesis
+  #    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  - name: Supervisor
+  #    content: Fusce eu augue ut odio porttitor pulvinar.
+
+- name: Diplôme de baccalauréat
+  icon: fa-university
+  timeframe: 2020-2023
+  institution:
+    name: École Normale Supérieure HNUE
+    url: "https://chuyensp.edu.vn/"
+    logo: /images/sections/education/THPT_HNUE.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+  grade: #(optional)
+    scale: GPA
+    achieved: 9
+    outOf: 10
+  extracurricularActivities: #(optional)
+  - Spécialisation en informatique
+  - Ancien membre de l'équipe d'informatique de l'école
+  - Bénévole pour le projet de recrutement et d'opportunités pour les jeunes de l'ONG
