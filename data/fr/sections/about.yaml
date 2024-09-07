@@ -1,6 +1,6 @@
 # section information
 section:
-  name: À propos
+  name: About
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Ingénieur logiciel
+designation: Software Engineer
 # your company information
 #company:
 #  name: Example Co.
@@ -19,7 +19,7 @@ designation: Ingénieur logiciel
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Je suis étudiant à lINSA de Rennes, Rennes, France. Je me spécialise en informatique.'
+summary: 'I am student at INSA de Rennes, Rennes, France. I major in Computer Science'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -60,7 +60,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Mon CV"
+- title: "My Resume"
   url: "files/CV_eng.pdf"
 
 # Show your badges
@@ -88,12 +88,12 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Travail d'équipe
+  name: Team Work
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Diligent
+  name: Hard Working
   percentage: 85
   color: orange
 
