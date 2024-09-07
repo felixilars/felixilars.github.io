@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "Proficient in Python. Used for web development, data analysis, automation, and working with AI and LLMs(Large Language Models)."
+
+- name: Java
+  logo: /images/sections/skills/java.svg
+  summary: "Experienced in Java, with a strong foundation in Object-Oriented Programming (OOP) gained through university coursework."
+
+- name: Pascal
+  logo: /images/sections/skills/pascal.png
+  summary: "Know basic Pascal programming. Used for contest programming and problem solving."
+
+- name: HTML
+  logo: /images/sections/skills/html.svg
+  summary: "Proficient in HTML, capable of structuring and organizing content for web pages, ensuring semantic and accessible design."
+
+- name: CSS
+  logo: /images/sections/skills/css.svg
+  summary: "Skilled in CSS, adept at styling and designing responsive layouts, and enhancing the visual appeal of web pages."
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+
+- name: WordPress
+  logo: /images/sections/skills/wordpress.png
+  summary: "Skills in building, managing and customizing websites using the WordPress content management system."

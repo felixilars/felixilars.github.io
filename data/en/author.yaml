@@ -1,0 +1,16 @@
+# some information about you
+name: "NGUYEN Duc-Nam"
+nickname: "Nam"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/Me.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ducnam3042005@gmail.com"
+  phone: "+33 6 29 47 56 69"
+  github: felixilars
+  linkedin: nguyen-duc-nam
+
+# some summary about what you do
+summary:
+  - I am a Software Engineer
