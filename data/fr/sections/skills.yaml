@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Compétences
-  id: compétences
+  name: Skills
+  id: skills
   enable: true
   weight: 2
   showOnNavbar: true
@@ -13,36 +13,36 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.svg
-  summary: "Compétent en Python. Utilisé pour le développement web, l'analyse de données, l'automatisation et le travail avec l'IA et les LLMs (Large Language Models)."
+  summary: "Proficient in Python. Used for web development, data analysis, automation, and working with AI and LLMs(Large Language Models)."
 
 - name: Java
   logo: /images/sections/skills/java.svg
-  summary: "Expérience en Java, avec une solide formation en programmation orientée objet (POO) acquise lors des cours universitaires."
+  summary: "Experienced in Java, with a strong foundation in Object-Oriented Programming (OOP) gained through university coursework."
 
 - name: Pascal
   logo: /images/sections/skills/pascal.png
-  summary: "Connaissance de la programmation Pascal de base. Utilisé pour la programmation de concours et la résolution de problèmes."
+  summary: "Know basic Pascal programming. Used for contest programming and problem solving."
 
 - name: HTML
   logo: /images/sections/skills/html.svg
-  summary: "Compétent en HTML, capable de structurer et organiser le contenu des pages web, en assurant un design sémantique et accessible."
+  summary: "Proficient in HTML, capable of structuring and organizing content for web pages, ensuring semantic and accessible design."
 
 - name: CSS
   logo: /images/sections/skills/css.svg
-  summary: "Compétent en CSS, habile dans la création de mises en page réactives et l'amélioration de l'apparence visuelle des pages web."
+  summary: "Skilled in CSS, adept at styling and designing responsive layouts, and enhancing the visual appeal of web pages."
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Connaissance de la programmation C/C++ de base. Utilisé pour la programmation de concours et la résolution de problèmes."
+  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Utilisé comme système d'exploitation principal. Capable d'écrire des scripts bash/shell."
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Expérience avec le développement basé sur Git. Utilisation principalement de GitHub, avec également une expérience avec GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
 
 - name: WordPress
   logo: /images/sections/skills/wordpress.png
-  summary: "Compétences dans la création, la gestion et la personnalisation de sites web en utilisant le système de gestion de contenu WordPress."
+  summary: "Skills in building, managing and customizing websites using the WordPress content management system."

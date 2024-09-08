@@ -1,7 +1,7 @@
 # section information
 section:
-  name: Expériences
-  id: expériences
+  name: Experiences
+  id: experiences
   enable: true
   weight: 1
   showOnNavbar: true
@@ -18,16 +18,16 @@ experiences:
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/experiences/inria_dark.png
     # company overview
-    overview: INRIA est un institut national de recherche français spécialisé en informatique, théorie du contrôle et mathématiques appliquées, reconnu pour ses innovations de pointe dans les logiciels, les algorithmes et l'intelligence artificielle.
+    overview: INRIA is a French national research institute focused on computer science, control theory, and applied mathematics, known for its cutting-edge innovations in software, algorithms, and artificial intelligence.
   positions:
-  - designation: Stagiaire
-    start: Juin 2024
+  - designation: Intern
+    start: Jun 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Août 2024
+    end: Aug 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Recherche sur les LLM (Large Language Models) dans les compétitions de codage
-    - Conception et développement d'un programme pour évaluer les LLM à travers des cas de test
+    - Research on LLMs (Large Language Models) in Code Competition
+    - Design and develop program to evaluate LLMs through test cases
 
 #- company:
 #    name: PreExample Co.
