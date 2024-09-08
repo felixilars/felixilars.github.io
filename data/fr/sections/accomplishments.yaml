@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Accomplishments
+  name: Réalisations
   id: accomplishments
   enable: true
   weight: 9
@@ -12,10 +12,10 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Machine Learning
-  timeline: "Apr 2024 - Aug 2024"
+  timeline: "Avr. 2024 - Août 2024"
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+  courseOverview: "Ce cours offre une introduction générale à l'apprentissage automatique, à l'exploration de données et à la reconnaissance de motifs statistiques. Les sujets abordés incluent : (i) Apprentissage supervisé (algorithmes paramétriques/non paramétriques, machines à vecteurs de support, noyaux, réseaux neuronaux). (ii) Apprentissage non supervisé (clustering, réduction de dimensionnalité, systèmes de recommandation, apprentissage profond). (iii) Meilleures pratiques en apprentissage automatique (théorie du biais/variance ; processus d'innovation en apprentissage automatique et IA)."
   certificateURL: "https://coursera.org/share/93ddafe99d7f91cd72b6b32bf7db9cc4"
 

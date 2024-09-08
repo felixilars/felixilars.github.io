@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Éducation
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,9 +10,9 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Student in Science and Technology for Engineering (STPI) - FIRE program
+- name: Étudiant en Science et Technologies Pour L'Ingénieur (STPI) - programme FIRE 
   icon: fa-graduation-cap
-  timeframe: 2023-Present
+  timeframe: 2023-Présent
   institution:
     name: INSA de Rennes
     url: "https://www.insa-rennes.fr/"
@@ -56,11 +56,11 @@ degrees:
   #  - name: Supervisor
   #    content: Fusce eu augue ut odio porttitor pulvinar.
 
-- name: High School Graduation Certificate
+- name: Diplôme de baccalauréat
   icon: fa-university
   timeframe: 2020-2023
   institution:
-    name: HNUE High School for Gifted Students
+    name: École Normale Supérieure HNUE
     url: "https://chuyensp.edu.vn/"
     logo: /images/sections/education/THPT_HNUE.png
     # Can optionally show a different logo for dark theme
@@ -70,6 +70,6 @@ degrees:
     achieved: 9
     outOf: 10
   extracurricularActivities: #(optional)
-  - Informatics specialization
-  - Former member of the school's informatics team
-  - Volunteer of NGO Recruitment and Youth Opportunities project
+  - Spécialisation en informatique
+  - Ancien membre de l'équipe d'informatique de l'école
+  - Bénévole pour le projet de recrutement et d'opportunités pour les jeunes de l'ONG
