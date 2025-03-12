@@ -12,10 +12,10 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Machine Learning
-  timeline: "Avr. 2024 - Août 2024"
+  timeline: "Mars 2025"
   organization:
     name: Coursera
     url: https://www.coursera.org
   courseOverview: "Ce cours offre une introduction générale à l'apprentissage automatique, à l'exploration de données et à la reconnaissance de motifs statistiques. Les sujets abordés incluent : (i) Apprentissage supervisé (algorithmes paramétriques/non paramétriques, machines à vecteurs de support, noyaux, réseaux neuronaux). (ii) Apprentissage non supervisé (clustering, réduction de dimensionnalité, systèmes de recommandation, apprentissage profond). (iii) Meilleures pratiques en apprentissage automatique (théorie du biais/variance ; processus d'innovation en apprentissage automatique et IA)."
-  certificateURL: "https://coursera.org/share/93ddafe99d7f91cd72b6b32bf7db9cc4"
+  certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
 

@@ -12,10 +12,10 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Machine Learning
-  timeline: "Apr 2024 - Aug 2024"
+  timeline: "March 2025"
   organization:
     name: Coursera
     url: https://www.coursera.org
   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://coursera.org/share/93ddafe99d7f91cd72b6b32bf7db9cc4"
+  certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
 
