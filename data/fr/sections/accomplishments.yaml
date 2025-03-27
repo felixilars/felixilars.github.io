@@ -20,13 +20,13 @@ accomplishments:
   certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
 
 - name: Natural Language Processing
-timeline: "Mars 2025"
-organization:
-  name: Coursera
-  url: https://www.coursera.org
-courseOverview: "Ce cours offre une introduction au traitement du langage naturel (NLP), un domaine clé de la linguistique, de l'informatique et de l'intelligence artificielle. Il se concentre sur les algorithmes permettant d'interpréter et manipuler le langage humain pour analyser des données textuelles massives. Contenu principal :
-(i) Techniques classiques : Régression logistique, naïve Bayes, vecteurs de mots, et hachage sensible à la localité.
-(ii) Modèles probabilistes : Programmation dynamique, modèles de Markov cachés, et embeddings pour la correction orthographique et l'analyse syntaxique.
-(iii) Réseaux neuronaux : LSTM, GRU, et attention pour la génération de texte, la reconnaissance d'entités nommées, et la détection de doublons.
-(iv) Modèles avancés : Encoder-décodeur, attention causale et auto-attention (T5, BERT) pour la traduction, le résumé, et le question-réponse."
-certificateURL: "https://coursera.org/share/c8ea39723ca3cd138af779e711492cc4"
+  timeline: "Mars 2025"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "Ce cours offre une introduction au traitement du langage naturel (NLP), un domaine clé de la linguistique, de l'informatique et de l'intelligence artificielle. Il se concentre sur les algorithmes permettant d'interpréter et manipuler le langage humain pour analyser des données textuelles massives. Contenu principal :
+  (i) Techniques classiques : Régression logistique, naïve Bayes, vecteurs de mots, et hachage sensible à la localité.
+  (ii) Modèles probabilistes : Programmation dynamique, modèles de Markov cachés, et embeddings pour la correction orthographique et l'analyse syntaxique.
+  (iii) Réseaux neuronaux : LSTM, GRU, et attention pour la génération de texte, la reconnaissance d'entités nommées, et la détection de doublons.
+  (iv) Modèles avancés : Encoder-décodeur, attention causale et auto-attention (T5, BERT) pour la traduction, le résumé, et le question-réponse."
+  certificateURL: "https://coursera.org/share/c8ea39723ca3cd138af779e711492cc4"
