@@ -19,3 +19,14 @@ accomplishments:
   courseOverview: "Ce cours offre une introduction générale à l'apprentissage automatique, à l'exploration de données et à la reconnaissance de motifs statistiques. Les sujets abordés incluent : (i) Apprentissage supervisé (algorithmes paramétriques/non paramétriques, machines à vecteurs de support, noyaux, réseaux neuronaux). (ii) Apprentissage non supervisé (clustering, réduction de dimensionnalité, systèmes de recommandation, apprentissage profond). (iii) Meilleures pratiques en apprentissage automatique (théorie du biais/variance ; processus d'innovation en apprentissage automatique et IA)."
   certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
 
+- name: Natural Language Processing
+timeline: "Mars 2025"
+organization:
+  name: Coursera
+  url: https://www.coursera.org
+courseOverview: "Ce cours offre une introduction au traitement du langage naturel (NLP), un domaine clé de la linguistique, de l'informatique et de l'intelligence artificielle. Il se concentre sur les algorithmes permettant d'interpréter et manipuler le langage humain pour analyser des données textuelles massives. Contenu principal :
+(i) Techniques classiques : Régression logistique, naïve Bayes, vecteurs de mots, et hachage sensible à la localité.
+(ii) Modèles probabilistes : Programmation dynamique, modèles de Markov cachés, et embeddings pour la correction orthographique et l'analyse syntaxique.
+(iii) Réseaux neuronaux : LSTM, GRU, et attention pour la génération de texte, la reconnaissance d'entités nommées, et la détection de doublons.
+(iv) Modèles avancés : Encoder-décodeur, attention causale et auto-attention (T5, BERT) pour la traduction, le résumé, et le question-réponse."
+certificateURL: "https://coursera.org/share/c8ea39723ca3cd138af779e711492cc4"
