@@ -18,4 +18,16 @@ accomplishments:
     url: https://www.coursera.org
   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
   certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
-
+  accomplishments:
+  
+- name: Natural Language Processing
+  timeline: "March 2025"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: "This course provides an introduction to Natural Language Processing (NLP), a key field in linguistics, computer science, and artificial intelligence. It focuses on algorithms for interpreting and manipulating human language to analyze massive textual data. Main content:
+(i) Classical techniques: Logistic regression, naive Bayes, word vectors, and locality-sensitive hashing.
+(ii) Probabilistic models: Dynamic programming, hidden Markov models, and embeddings for spelling correction and syntactic analysis.
+(iii) Neural networks: LSTM, GRU, and attention mechanisms for text generation, named entity recognition, and duplicate detection.
+(iv) Advanced models: Encoder-decoder architecture, causal attention, and self-attention (T5, BERT) for translation, summarization, and question-answering."
+  certificateURL: "https://coursera.org/share/49d5edbd88853ea726e6b7312c013a38"
